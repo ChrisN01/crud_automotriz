@@ -3,7 +3,7 @@ Pasos de Instalación para Crud sector automotriz
 1. Abrir terminal
 2. Posicionarse desde la terminal en la carpeta donde quiere que se guarde el proyecto
 3. Clonar proyecto ejecutando git clone https://github.com/ChrisN01/crud_automotriz.git
-4. Entrar al directorio raiz del proyecto: cd crud_sector_automotriz
+4. Entrar al directorio raiz del proyecto: cd crud_automotriz
 5. Instalar dependencias ejecutando composer install en su terminal
 6. Crear el archivo .env usando el comando "cp .env.example .env" o copy ".env.example .env"
 7. Generar la key con el comando: php artisan key:generate
